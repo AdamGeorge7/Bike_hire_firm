@@ -58,6 +58,6 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Script1.sql" />
+    <Build Include="DatabaseScript.sql" />
   </ItemGroup>
 </Project>
